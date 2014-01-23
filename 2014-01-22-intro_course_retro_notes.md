@@ -16,18 +16,6 @@
 - Maria Muñoz
 - Mattamadugu Seshendra
 
-## Misc
-
-- How did the students find us? Maria: via Meetup.com, has attended PyLadies. Has friends in the business. Mattamadugu: via Meetup.com.
-- Installfest went well.
-- Name tags were good.
-- Mike went to Bergh and gave a class, told them about us.
-- Maybe 16% women. We want to improve that ratio but don't know how.
-- Few guides that know Windows well.
-- Next event sometime around April 3.
-- 58 attendees signed up last time. 73 this time. 43 students showed up. 10-ish coaches?
-- A FAQ of common errors, especially Windows errors, would be nice.
-
 ## Things to do now
 
 - [Henrik & Calle] Send a message to attendees via Meetup.com, mentioning:
@@ -74,3 +62,15 @@
 - Link to the installation guide from the event description.
 - Push the installation event more strongly. It's almost mandatory.
 - Hand out Stockholm Ruby stickers as a reward. Railsbridge mentions them. If someone will sponsor stickers.
+
+## Misc
+
+- How did the students find us? Maria: via Meetup.com, has attended PyLadies. Has friends in the business. Mattamadugu: via Meetup.com.
+- Installfest went well.
+- Name tags were good.
+- Mike went to Bergh and gave a class, told them about us.
+- Maybe 16% women. We want to improve that ratio but don't know how.
+- Few guides that know Windows well.
+- Next event sometime around April 3.
+- 58 attendees signed up last time. 73 this time. 43 students showed up. 10-ish coaches?
+- A FAQ of common errors, especially Windows errors, would be nice.
