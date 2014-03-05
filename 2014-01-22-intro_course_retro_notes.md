@@ -27,7 +27,7 @@
     - Did you continue on your own? Do you know the next step to take?
     - How did you like it? Anything to improve?
   - Ask coaches to mention common errors in a Meetup discussion tread (or a survey?)
-- [Mike], DONE Put checklist [on GitHub](https://github.com/sthlmrb/texts/blob/master/checklists.md).
+- [Mike, DONE] Put checklist [on GitHub](https://github.com/sthlmrb/texts/blob/master/checklists.md).
 - [Henrik, DONE] Adapt /learn for people attending the event
 - [Henrik] Ask MyNewsdesk if they would sponsor stickers with the Stockholm Ruby logo.
 - [anyone who cares] Add a Rails book to /learn
